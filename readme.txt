@@ -1,5 +1,5 @@
 === Slider comparison image before and after ===
-Contributors: WPman
+Contributors: hardwaremaster
 Tags: compare, comparison, separator, image, picture, before, after
 Requires at least: 3.9
 Tested up to: 4.2.2
